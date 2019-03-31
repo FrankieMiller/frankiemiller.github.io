@@ -179,7 +179,7 @@ header .carousel-iphone{
 	margin-left: auto;
 	width: 320px;
 	height: 672px;
-	background: url('../img/iphone-front.png') no-repeat;
+	background: url('iphone-front.png') no-repeat;
 	background-size: 100%;
 	
 }
